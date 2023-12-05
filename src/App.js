@@ -12,7 +12,7 @@ function App() {
   /* errors.... Cannot read properties of null(reading 'useContext').... */
   /* Cannot read properties of null(reading 'useRef') */
   return (
-    <div className="App">
+    
       <BrowserRouter>
         <Header />
         <Routes>
@@ -25,7 +25,7 @@ function App() {
 
 
 
-    </div>
+
   );
 }
 
