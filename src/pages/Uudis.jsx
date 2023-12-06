@@ -1,10 +1,10 @@
 import { Link, useNavigate, useParams, useLocation } from "react-router-dom"
 import React from "react"
-import uudised from "../data.js"
 import Mainheader from "../components/main-header"
 import { useState, useEffect } from "react"
 /* ********************************** */
 import { client } from "../App.js";
+
 
 const Uudis = () => {
 
@@ -40,9 +40,16 @@ const Uudis = () => {
                     </div>
                 </div>
                 <div>
-                    <h2>{uudis.title} </h2>
-                    <img id="mainImage" src={uudis.fields.image.fields.file.url} alt={uudis.fields.image.fields.title} />
-                    <h3>{uudis.sisu}</h3>
+                    {uudised.map((uudised) => {
+                        return (
+                            <div>
+                                <h2>{uudised.fields.title} </h2>
+                                <img id="mainImage" src={uudised.fields.image.fields.file.url} alt={uudised.fields.image.fields.title} />
+                                <h3>{uudised.fields.body}</h3>
+                            </div>
+                        )
+                    })}
+
                 </div>
             </div>
 
