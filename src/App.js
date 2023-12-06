@@ -13,15 +13,15 @@ function App() {
   /* Cannot read properties of null(reading 'useRef') */
   return (
     
-      <BrowserRouter>
-        <Header />
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="about" element={<About />} />
-          <Route path="home/:UudisId" element={<Uudis />} />
-        </Routes>
-        <Footer />
-      </BrowserRouter>
+     <HashRouter hashType="hashbang">
+      <Header />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="about" element={<About />} />
+        <Route path="home/:UudisId" element={<Uudis />} />
+      </Routes>
+      <Footer />
+    </HashRouter>
 
 
 
