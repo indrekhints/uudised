@@ -9,8 +9,6 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import Header from './components/Header';
 import Footer from './components/Footer';
 
-
-
 const contentful = require('contentful')
 
 export const client = contentful.createClient({

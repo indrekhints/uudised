@@ -39,7 +39,7 @@ const Home = () => {
                                     <div className="card">
 
                                         <div className="img-wrap">
-                                            <img src={uudis.fields.image.fields.file.url} alt={uudis.fields.image.fields.title} />
+                                            <img id="mainImage" src={uudis.fields.image.fields.file.url} alt={uudis.fields.image.fields.title} />
                                         </div>
                                         <div className="card-body">
                                             <h5 className="card-title">{uudis.fields.title}</h5>
