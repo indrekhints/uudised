@@ -147,3 +147,8 @@ button:hover {
   text-decoration: none;
   margin-top: 40px;
 }
+
+#mainImage {
+  max-width: 350px;
+  max-height: 300px;
+}
