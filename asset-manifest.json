@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/uudised/static/css/main.068a3683.css",
-    "main.js": "/uudised/static/js/main.811cfb8c.js",
+    "main.js": "/uudised/static/js/main.ed9beeee.js",
     "static/js/787.86b2f461.chunk.js": "/uudised/static/js/787.86b2f461.chunk.js",
     "index.html": "/uudised/index.html",
     "main.068a3683.css.map": "/uudised/static/css/main.068a3683.css.map",
-    "main.811cfb8c.js.map": "/uudised/static/js/main.811cfb8c.js.map",
+    "main.ed9beeee.js.map": "/uudised/static/js/main.ed9beeee.js.map",
     "787.86b2f461.chunk.js.map": "/uudised/static/js/787.86b2f461.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.068a3683.css",
-    "static/js/main.811cfb8c.js"
+    "static/js/main.ed9beeee.js"
   ]
 }
