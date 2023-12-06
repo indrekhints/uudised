@@ -1,23 +1,15 @@
 {
   "files": {
     "main.css": "/uudised/static/css/main.068a3683.css",
-    "main.js": "/uudised/static/js/main.c9dfdba9.js",
+    "main.js": "/uudised/static/js/main.811cfb8c.js",
     "static/js/787.86b2f461.chunk.js": "/uudised/static/js/787.86b2f461.chunk.js",
-    "static/media/image8.jpg": "/uudised/static/media/image8.b9e426643ae574c83961.jpg",
-    "static/media/image3.jpg": "/uudised/static/media/image3.e998bdad0ed3008e873d.jpg",
-    "static/media/image4.jpg": "/uudised/static/media/image4.50d614c8af7115a694ff.jpg",
-    "static/media/image5.jpg": "/uudised/static/media/image5.661bc011246fe34451a0.jpg",
-    "static/media/image7.jpg": "/uudised/static/media/image7.0dfa08de055e30014a23.jpg",
-    "static/media/image6.jpg": "/uudised/static/media/image6.2c2c1a89fa7db8b0cdbc.jpg",
-    "static/media/image1.jpg": "/uudised/static/media/image1.27070379dd6511bad4ef.jpg",
-    "static/media/image2.jpg": "/uudised/static/media/image2.d56056fa97fbd0e9dd1f.jpg",
     "index.html": "/uudised/index.html",
     "main.068a3683.css.map": "/uudised/static/css/main.068a3683.css.map",
-    "main.c9dfdba9.js.map": "/uudised/static/js/main.c9dfdba9.js.map",
+    "main.811cfb8c.js.map": "/uudised/static/js/main.811cfb8c.js.map",
     "787.86b2f461.chunk.js.map": "/uudised/static/js/787.86b2f461.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.068a3683.css",
-    "static/js/main.c9dfdba9.js"
+    "static/js/main.811cfb8c.js"
   ]
 }
