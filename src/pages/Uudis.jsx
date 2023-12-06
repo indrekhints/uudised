@@ -4,6 +4,8 @@ import uudised from "../data.js"
 import Mainheader from "../components/main-header"
 
 const Uudis = () => {
+
+
     const navigate = useNavigate();
     const { UudisId } = useParams();
 
@@ -22,7 +24,7 @@ const Uudis = () => {
                     < div className="col-lg-7">
 
                         <br />
-                
+
                     </div>
                 </div>
                 <div>

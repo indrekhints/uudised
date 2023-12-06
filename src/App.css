@@ -136,3 +136,14 @@ button {
 button:hover {
   background-color: #45a049;
 }
+
+.footer {
+  background-color: #232323;
+  min-height: 130px;
+}
+
+.footer h5 {
+  color: #636363;
+  text-decoration: none;
+  margin-top: 40px;
+}
