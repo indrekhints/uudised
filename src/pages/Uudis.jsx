@@ -40,7 +40,7 @@ const Uudis = () => {
                     </div>
                 </div>
                 <div>
-                    {uudised.map((uudised) => {
+                    {/* {uudised.map((uudised) => {
                         return (
                             <div>
                                 <h2>{uudised.fields.title} </h2>
@@ -48,7 +48,7 @@ const Uudis = () => {
                                 <h3>{uudised.fields.body}</h3>
                             </div>
                         )
-                    })}
+                    })} */}
 
                 </div>
             </div>
